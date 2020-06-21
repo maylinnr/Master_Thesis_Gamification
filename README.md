@@ -1,7 +1,17 @@
 # Master_Thesis_Gamification
- Datasets for the master thesis
+ Datasets for the master thesis of Maylinn Rothengatter
 
-"Master dataset" contains all unmodified data.
+## Datasets description
+
+* "**Master dataset**" contains all unmodified data.
+* "**Subset for Assessment**" is the preprocessed data for the assessment data analyses.
+   * Contains "Normalised assessment scores" as extra variable
+
+* "**Subset for Questionnaire**" is the preprocessed data for the questionnaire data analyses.
+   * Contains avergage per the constructs Enjoyment, Usefulness, Difficulty, Satisfaction, and Engagement
+   * Contains total average of the constructs Enjoyment, Usefulness, Difficulty, Satisfaction, and Engagement
+
+## Nominal to numeric conversions:
 * DEM1
   * 1 = Germany
   * 2 = Netherlands
@@ -18,9 +28,3 @@
   * 5 = Professional Degree (e.g. MD, DDS, JD)
   * 6 = Doctorate (e.g. PhD, EdD)
 
-"Subset for Assessment"  is the preprocessed data for the assessment data analyses.
-* Contains "Normalised assessment scores" as extra variable
-
-"Subset for Questionnaire" is the preprocessed data for the questionnaire data analyses. 
-* Contains total average over the constructs Enjoyment, Usefulness, Difficulty, Satisfaction, and Engagement
-* Contains avergage per construct for Enjoyment, Usefulness, Difficulty, Satisfaction, and Engagement
