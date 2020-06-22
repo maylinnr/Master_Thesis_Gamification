@@ -1,5 +1,8 @@
 # Master_Thesis_Gamification
- Datasets for the master thesis of Maylinn Rothengatter
+Datasets for the master thesis of Maylinn Rothengatter (11338598). \
+Available in two formats:
+* .sav (SPSS)
+* .csv (; as separator)
 
 ## Datasets description
 
